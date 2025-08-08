@@ -18,7 +18,7 @@
 
 <br>
 <a href="https://leetcode.com/u/iraianbu24/">
-    <img src="https://leetcard.jacoblin.cool/tnlogesh?=dark&font=Goldman&ext=activityy"></img>
+    <img src="https://leetcard.jacoblin.cool/iraianbu24?=dark&font=Goldman&ext=activityy"></img>
 <a>
 
 <!------------------------------------------>
