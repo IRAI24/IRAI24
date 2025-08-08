@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm IRAIANBU S</h1>
-<h3 align="center">A passionate frontend developer fAspiring Java Developer with a strong foundation in object-oriented programming and software development principles. Currently enhancing Java skills through coursework and hands-on projects. Proactive learner with a keen interest in backend development and problem-solving.rom India</h3>
+<h3 align="center">A passionate frontend developer Aspiring Java Developer with a strong foundation in object-oriented programming and software development principles. Currently enhancing Java skills through coursework and hands-on projects. Proactive learner with a keen interest in backend development and problem-solving.rom India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irai24&label=Profile%20views&color=0e75b6&style=flat" alt="irai24" /> </p>
 
